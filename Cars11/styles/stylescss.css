@@ -1,0 +1,33 @@
+body{
+    background-color:#f5f5f5;
+}
+.header1{
+    border-radius:5px;
+}
+.header12{
+    text-align: center;
+
+}
+h1{
+    color:brown;
+    font-family: Garamond, serif
+}
+table{
+max-width:400px;
+justify-content: center;
+}
+img:hover{
+    border: 5px solid black;
+}
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding:15px;
+}
+#rrb1:hover {
+  transform: scale(1.1);
+}
+#specrrb1{
+    text-align: center;
+}
